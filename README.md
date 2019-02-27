@@ -4,7 +4,7 @@
 
 Made after the TIL repo by jbranchaud
 
-_4 TILs and counting..._
+_5 TILs and counting..._
 
 ---
 
@@ -14,21 +14,26 @@ _4 TILs and counting..._
 * [Latex](#Latex)
 * [bash](#bash)
 * [pandoc-markdown](#pandoc-markdown)
+* [vim](#vim)
 
 ---
 
 ### git
 
-- [show_tag_with_date](git/show_tag_with_date.md)
+- [show tag with date](git/show_tag_with_date.md)
 
 ### Latex
 
-- [installing_sourcesanspro_font_package](latex/installing_sourcesanspro_font_package.md)
+- [installing sourcesanspro font package](latex/installing_sourcesanspro_font_package.md)
 
 ### bash
 
--  [find all files of type and copy them](bash/find_all_file_of_type_and_copy.md)
+-  [find all files of one type and copy them](bash/find_all_file_of_type_and_copy.md)
 
 ### pandoc-markdown 
 
-- [note_taking_template](pandoc-makrdown/note_taking_template)
+- [note taking template](pandoc-makrdown/note_taking_template)
+
+### vim 
+
+- [plugins with vim-plug](plugins_with_vim-plug.md)
