@@ -6,5 +6,4 @@ This example finds all ``` .vhd ``` files and copys them to the directory ``` fr
 
 ```bash
 find -iname '*.vhd' -exec cp {} ./friedrich_tools/ \;
-```bash
-
+```
