@@ -32,7 +32,7 @@ _5 TILs and counting..._
 
 ### pandoc-markdown 
 
-- [note taking template](pandoc-makrdown/note_taking_template.md)
+- [note taking template](pandoc-markdown/note_taking_template.md)
 
 ### vim 
 
