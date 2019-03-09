@@ -4,7 +4,7 @@
 
 Made after the TIL repo by jbranchaud
 
-_5 TILs and counting..._
+_6 TILs and counting..._
 
 ---
 
@@ -12,6 +12,7 @@ _5 TILs and counting..._
 
 * [Git](#git)
 * [Latex](#Latex)
+* [i3](#i3)
 * [bash](#bash)
 * [pandoc-markdown](#pandoc-markdown)
 * [vim](#vim)
@@ -25,6 +26,10 @@ _5 TILs and counting..._
 ### Latex
 
 - [installing sourcesanspro font package](latex/installing_sourcesanspro_font_package.md)
+
+### i3
+
+- [Alternative Lockscreen for the i3wm](i3/alternative_lockscreen_betterlockscreen.md)
 
 ### bash
 
