@@ -37,8 +37,8 @@ _6 TILs and counting..._
 
 ### pandoc-markdown 
 
-- [note taking template](pandoc-makrdown/note_taking_template)
+- [note taking template](pandoc-markdown/note_taking_template.md)
 
 ### vim 
 
-- [plugins with vim-plug](plugins_with_vim-plug.md)
+- [plugins with vim-plug](vim/plugins_with_vim-plug.md)
