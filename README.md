@@ -4,7 +4,7 @@
 
 Made after the TIL repo by jbranchaud
 
-_6 TILs and counting..._
+_7 TILs and counting..._
 
 ---
 
@@ -33,12 +33,13 @@ _6 TILs and counting..._
 
 ### bash
 
--  [find all files of one type and copy them](bash/find_all_file_of_type_and_copy.md)
+- [find all files of one type and copy them](bash/find_all_file_of_type_and_copy.md)
+- [show git branch in bash](bash/show_git_branch_in_bash.md)
 
 ### pandoc-markdown 
 
 - [note taking template](pandoc-markdown/note_taking_template.md)
 
 ### vim 
-
+- [line numbers](vim/line_numbers.md)
 - [plugins with vim-plug](vim/plugins_with_vim-plug.md)
