@@ -4,11 +4,7 @@
 
 Made after the TIL repo by [jbranchaud](https://github.com/jbranchaud/til)
 
-<<<<<<< HEAD
 _10 TILs and counting..._
-=======
-_8 TILs and counting..._
->>>>>>> b70d2a171e7f6707dbe69a35f984824be482f4f9
 
 ---
 
