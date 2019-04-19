@@ -4,7 +4,7 @@
 
 Made after the TIL repo by [jbranchaud](https://github.com/jbranchaud/til)
 
-_13 TILs and counting..._
+_14 TILs and counting..._
 
 ---
 
@@ -23,6 +23,8 @@ _13 TILs and counting..._
 
 - [show tag with date](git/show_tag_with_date.md)
 - [change default editor](git/change_default_editor.md)
+- [show commitsone line](git/show_commits_one_line.md)
+
 
 ### Latex
 
