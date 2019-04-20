@@ -4,7 +4,7 @@
 
 Made after the TIL repo by [jbranchaud](https://github.com/jbranchaud/til)
 
-_14 TILs and counting..._
+_16 TILs and counting..._
 
 ---
 
@@ -23,7 +23,7 @@ _14 TILs and counting..._
 
 - [show tag with date](git/show_tag_with_date.md)
 - [change default editor](git/change_default_editor.md)
-- [show commitsone line](git/show_commits_one_line.md)
+- [show commits in one line](git/show_commits_one_line.md)
 
 
 ### Latex
@@ -33,7 +33,8 @@ _14 TILs and counting..._
 ### i3
 
 - [Alternative Lockscreen for the i3wm](i3/alternative_lockscreen_betterlockscreen.md)
-
+- [firefox fullscreen youtube](i3/firefox_fullscreen_youtube.md)
+- [firefox stop autohiding toolbar](i3/firefox_stop_autohiding_toolbar.md)
 
 ### linux 
 
