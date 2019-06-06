@@ -4,7 +4,7 @@
 
 Made after the TIL repo by [jbranchaud](https://github.com/jbranchaud/til)
 
-_16 TILs and counting..._
+_17 TILs and counting..._
 
 ---
 
@@ -35,7 +35,7 @@ _16 TILs and counting..._
 - [Alternative Lockscreen for the i3wm](i3/alternative_lockscreen_betterlockscreen.md)
 - [firefox fullscreen youtube](i3/firefox_fullscreen_youtube.md)
 - [firefox stop autohiding toolbar](i3/firefox_stop_autohiding_toolbar.md)
-
+- [Brigthness control in i3](i3/brightness_control.md)
 ### linux 
 
 - [custom battery prompt](linux/custom_battery_prompt.md)
