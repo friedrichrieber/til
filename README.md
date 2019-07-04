@@ -4,7 +4,7 @@
 
 Made after the TIL repo by [jbranchaud](https://github.com/jbranchaud/til)
 
-_18 TILs and counting..._
+_19 TILs and counting..._
 
 ---
 
@@ -57,3 +57,4 @@ _18 TILs and counting..._
 ### vim 
 - [line numbers](vim/line_numbers.md)
 - [plugins with vim-plug](vim/plugins_with_vim-plug.md)
+- [vim instant markdown](vim/vim_instant_markdown.md)
