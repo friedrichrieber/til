@@ -27,6 +27,10 @@ You first need to have node.js with npm installed. Then:
 
 Npm is a package Manger for Javascript. And i installed it from my default vim Plugin Manager.
 
+## Downside
+
+I only got images working if they are already on the
+
 ## Pictures
 
 ![Use Case](/til/raw/master/media/vim_instant_markdown.png)
