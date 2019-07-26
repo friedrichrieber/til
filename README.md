@@ -4,7 +4,7 @@
 
 Made after the TIL repo by [jbranchaud](https://github.com/jbranchaud/til)
 
-_18 TILs and counting..._
+_20 TILs and counting..._
 
 ---
 
@@ -41,6 +41,8 @@ _18 TILs and counting..._
 ### linux 
 
 - [custom battery prompt](linux/custom_battery_prompt.md)
+- [zathura copy and paste](linux/zathura_copy_paste.md)
+- [scilab cli fix](linux/scilab_cli_fix.md)
 
 ### bash
 
