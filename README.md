@@ -4,7 +4,7 @@
 
 Made after the TIL repo by [jbranchaud](https://github.com/jbranchaud/til)
 
-_21 TILs and counting..._
+_23 TILs and counting..._
 
 ---
 
@@ -18,6 +18,9 @@ _21 TILs and counting..._
 * [vim](#vim)
 
 ---
+### The C Programming Language
+
+- [Unit Test in C](c/simple_unit_tests_in_c.md)
 
 ### git
 
@@ -43,6 +46,7 @@ _21 TILs and counting..._
 - [custom battery prompt](linux/custom_battery_prompt.md)
 - [zathura copy and paste](linux/zathura_copy_paste.md)
 - [scilab cli fix](linux/scilab_cli_fix.md)
+- [simple command line countdown](linux/simple_command_line_countdown.md)
 
 ### bash
 
