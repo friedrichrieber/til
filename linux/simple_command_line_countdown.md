@@ -4,6 +4,6 @@ To create a simple countdown in the command line i use the tool ```termdown``` f
 
 # Example 
 
-termdown "2019-09-06 09:00 UTC
+```termdown "2019-09-06 09:00 UTC"```
 
 ![simple countdown](../media/simple_countdown.png)
