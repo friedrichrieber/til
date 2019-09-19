@@ -4,7 +4,7 @@
 
 Made after the TIL repo by [jbranchaud](https://github.com/jbranchaud/til)
 
-_23 TILs and counting..._
+_24 TILs and counting..._
 
 ---
 
@@ -31,6 +31,7 @@ _23 TILs and counting..._
 
 ### Latex
 
+- [cleaning_files_with_vimtex](latex/cleaning_files_with_vimtex.md)
 - [installing sourcesanspro font package](latex/installing_sourcesanspro_font_package.md)
 
 ### i3
@@ -48,12 +49,13 @@ _23 TILs and counting..._
 - [scilab cli fix](linux/scilab_cli_fix.md)
 - [simple command line countdown](linux/simple_command_line_countdown.md)
 
-### bash
+### The Command Line/bash
 
 - [find all files of one type and copy them](bash/find_all_file_of_type_and_copy.md)
 - [show git branch in bash](bash/show_git_branch_in_bash.md)
 - [playing music from the command line](bash/playing_music_from_command_line.md)
 - [file manager for the command line](bash/file_manager_for_the_command_line.md)
+- [ranger_delete_bookmark](bash/ranger_delete_bookmark.md)
 - [ranger image and pdf preview](bash/ranger_image_and_pdf_preview.md)
 
 ### pandoc-markdown 
