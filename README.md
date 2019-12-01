@@ -42,7 +42,7 @@ _24 TILs and counting..._
 - [Brigthness control in i3](i3/brightness_control.md)
 - [Gnome Settings in i3](i3/gnome_settings_in_i3.md)
 
-### linux 
+### linux
 
 - [custom battery prompt](linux/custom_battery_prompt.md)
 - [zathura copy and paste](linux/zathura_copy_paste.md)
@@ -58,11 +58,12 @@ _24 TILs and counting..._
 - [ranger_delete_bookmark](bash/ranger_delete_bookmark.md)
 - [ranger image and pdf preview](bash/ranger_image_and_pdf_preview.md)
 
-### pandoc-markdown 
+### pandoc-markdown
 
 - [note taking template](pandoc-markdown/note_taking_template.md)
 
-### vim 
+### vim
 - [line numbers](vim/line_numbers.md)
 - [plugins with vim-plug](vim/plugins_with_vim-plug.md)
+- [show function declration and more in vim](vim/show_function_declarations.md)
 - [vim instant markdown](vim/vim_instant_markdown.md)
