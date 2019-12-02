@@ -2,9 +2,9 @@
 
 > Today I Learned
 
-Made after the TIL repo by [jbranchaud](https://github.com/jbranchaud/til)
+I got the idea from the TIL repo from  [jbranchaud](https://github.com/jbranchaud/til)
 
-_24 TILs and counting..._
+_26 TILs and counting..._
 
 ---
 
@@ -29,9 +29,9 @@ _24 TILs and counting..._
 - [show commits in one line](git/show_commits_one_line.md)
 
 
-### Latex
+### latex
 
-- [cleaning_files_with_vimtex](latex/cleaning_files_with_vimtex.md)
+- [cleaning files with vimtex](latex/cleaning_files_with_vimtex.md)
 - [installing sourcesanspro font package](latex/installing_sourcesanspro_font_package.md)
 
 ### i3
@@ -49,21 +49,24 @@ _24 TILs and counting..._
 - [scilab cli fix](linux/scilab_cli_fix.md)
 - [simple command line countdown](linux/simple_command_line_countdown.md)
 
-### The Command Line/bash
+### bash
 
+- [build in command search](bash/build_in_command_serarch.md)
 - [find all files of one type and copy them](bash/find_all_file_of_type_and_copy.md)
 - [show git branch in bash](bash/show_git_branch_in_bash.md)
 - [playing music from the command line](bash/playing_music_from_command_line.md)
 - [file manager for the command line](bash/file_manager_for_the_command_line.md)
-- [ranger_delete_bookmark](bash/ranger_delete_bookmark.md)
-- [ranger image and pdf preview](bash/ranger_image_and_pdf_preview.md)
+- Ranger
+	- [delete bookmarks](bash/ranger_delete_bookmark.md)
+	- [image and pdf preview](bash/ranger_image_and_pdf_preview.md)
 
 ### pandoc-markdown
 
 - [note taking template](pandoc-markdown/note_taking_template.md)
 
 ### vim
+
 - [line numbers](vim/line_numbers.md)
 - [plugins with vim-plug](vim/plugins_with_vim-plug.md)
-- [show function declration and more in vim](vim/show_function_declarations.md)
+- [show function declaration and more in vim](vim/show_function_declarations.md)
 - [vim instant markdown](vim/vim_instant_markdown.md)
