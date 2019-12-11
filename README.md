@@ -4,7 +4,7 @@
 
 I got the idea from the TIL repo from  [jbranchaud](https://github.com/jbranchaud/til)
 
-_26 TILs and counting..._
+_27 TILs and counting..._
 
 ---
 
@@ -41,6 +41,7 @@ _26 TILs and counting..._
 - [firefox stop autohiding toolbar](i3/firefox_stop_autohiding_toolbar.md)
 - [Brigthness control in i3](i3/brightness_control.md)
 - [Gnome Settings in i3](i3/gnome_settings_in_i3.md)
+- [Control Sound in i3](i3/sound_control_in_i3.md)
 
 ### linux
 
