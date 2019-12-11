@@ -12,6 +12,9 @@ exec pasystray
 
 You can also use the tool `pavumeter` for a volume meter
 
+## Pictures
+
+![Example Picture 1](../media/i3_volume_control.png)
 
 ## copy paste steps
 
