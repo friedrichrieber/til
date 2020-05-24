@@ -4,7 +4,7 @@
 
 I got the idea from the TIL repo from  [jbranchaud](https://github.com/jbranchaud/til)
 
-_27 TILs and counting..._
+_28 TILs and counting..._
 
 ---
 
@@ -54,6 +54,7 @@ _27 TILs and counting..._
 
 - [build in command search](bash/build_in_command_serarch.md)
 - [find all files of one type and copy them](bash/find_all_file_of_type_and_copy.md)
+- [jump to last entered directory](bash/jump_to_last_directory.md)
 - [show git branch in bash](bash/show_git_branch_in_bash.md)
 - [playing music from the command line](bash/playing_music_from_command_line.md)
 - [file manager for the command line](bash/file_manager_for_the_command_line.md)
