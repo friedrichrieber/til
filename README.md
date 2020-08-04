@@ -16,7 +16,7 @@ _28 TILs and counting..._
 * [Latex](#Latex)
 * [pandoc-markdown](#pandoc-markdown)
 * [vim](#vim)
-* [ranger](#ranger)
+* [ranger](#ranger (file manager))
 
 ---
 ### The C Programming Language
@@ -61,7 +61,7 @@ _28 TILs and counting..._
 - [file manager for the command line](bash/file_manager_for_the_command_line.md)
 
 
-### Ranger (file manager)
+### ranger (file manager)
 
 - [delete bookmarks](ranger/ranger_delete_bookmark.md)
 - [image and pdf preview](ranger/ranger_image_and_pdf_preview.md)
