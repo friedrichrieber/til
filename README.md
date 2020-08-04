@@ -52,7 +52,7 @@ _28 TILs and counting..._
 
 ### bash
 
-- [build in command search](bash/build_in_command_serarch.md)
+- [build in command search](bash/build_in_command_search.md)
 - [find all files of one type and copy them](bash/find_all_file_of_type_and_copy.md)
 - [jump to last entered directory](bash/jump_to_last_directory.md)
 - [show git branch in bash](bash/show_git_branch_in_bash.md)
