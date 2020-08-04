@@ -16,6 +16,7 @@ _28 TILs and counting..._
 * [Latex](#Latex)
 * [pandoc-markdown](#pandoc-markdown)
 * [vim](#vim)
+* [ranger](#ranger)
 
 ---
 ### The C Programming Language
