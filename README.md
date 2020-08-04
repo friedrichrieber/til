@@ -58,9 +58,12 @@ _28 TILs and counting..._
 - [show git branch in bash](bash/show_git_branch_in_bash.md)
 - [playing music from the command line](bash/playing_music_from_command_line.md)
 - [file manager for the command line](bash/file_manager_for_the_command_line.md)
-- Ranger
-	- [delete bookmarks](bash/ranger_delete_bookmark.md)
-	- [image and pdf preview](bash/ranger_image_and_pdf_preview.md)
+
+
+### Ranger (file manager)
+
+- [delete bookmarks](ranger/ranger_delete_bookmark.md)
+- [image and pdf preview](ranger/ranger_image_and_pdf_preview.md)
 
 ### pandoc-markdown
 
