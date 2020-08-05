@@ -43,6 +43,7 @@ _28 TILs and counting..._
 - [Brigthness control in i3](i3/brightness_control.md)
 - [Gnome Settings in i3](i3/gnome_settings_in_i3.md)
 - [Control Sound in i3](i3/sound_control_in_i3.md)
+- [Easy Screenshot](i3/easy_screenshot.md)
 
 ### linux
 
