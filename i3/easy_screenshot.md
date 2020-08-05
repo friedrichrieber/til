@@ -1,6 +1,8 @@
 # An easy way for making screenshots in i3
 
 ## General
+_(tested on Linux Mint 20)_
+
 Use the program called ```import``` which turns your cursor into a cross which can be used to mark the area to be captured. 
 
 ## Installation
