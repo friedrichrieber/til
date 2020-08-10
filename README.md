@@ -50,6 +50,7 @@ _28 TILs and counting..._
 - [custom battery prompt](linux/custom_battery_prompt.md)
 - [zathura copy and paste](linux/zathura_copy_paste.md)
 - [scilab cli fix](linux/scilab_cli_fix.md)
+- [Image Manipulation in the terminal](linux/terminal_image_manipulation.md)
 - [simple command line countdown](linux/simple_command_line_countdown.md)
 
 ### bash
